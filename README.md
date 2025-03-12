@@ -1,5 +1,5 @@
 
-# <a href="https://www.linkedin.com/in/Kayadebo/">kay-adebo-8b6047206</a>'s IT and Cybersecurity Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/Kay-adebo/">Kay Adebo</a>'s IT and Cybersecurity Project Portfolio 🔐
 
 My commitment to cybersecurity drives me to tackle intricate challenges through practical, hands-on projects. Engaging in activities such as vulnerability management and threat detection allows me to immerse myself in the dynamic and continually evolving cybersecurity landscape. I invite you to explore these projects to observe the efforts I've dedicated to enhancing security operations and processes.
 
