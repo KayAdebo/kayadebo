@@ -1,7 +1,7 @@
 
 # <a href="https://www.linkedin.com/in/kay-adebo-8b6047206/">Kay Adebo</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-My commitment to cybersecurity drives me to tackle intricate challenges through practical, hands-on projects. Engaging in activities such as vulnerability management, threat detection and risk management this allows me to immerse myself in the dynamic and continually evolving cybersecurity landscape. I invite you to explore a couple of projects to observe the efforts I've dedicated to enhancing security operations and processes.
+My commitment to cybersecurity drives me to tackle intricate challenges through practical, hands-on projects. Engaging in activities such as vulnerability management, threat detection and risk management this allows me to immerse myself in the dynamic and continually evolving cybersecurity landscape. I invite you to explore a couple of projects to observe the effort I've dedicated to enhancing security operations and processes.
 
 ## ⚠️ Vulnerability Management Projects
 
